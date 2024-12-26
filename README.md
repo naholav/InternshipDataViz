@@ -46,24 +46,30 @@ The Indian Cities Database was integrated to enhance geographical analysis. By c
 1. **Internship Distribution by City**:
    - Mapped cities with the most opportunities using Folium.
    - Incorporated city coordinates for precise location mapping.
+   -  ![Ekran Görüntüsü](screenshots/Screenshot_1.png)
 
 2. **Sector Analysis**:
    - Categorized internships into sectors (e.g., IT/Tech, Healthcare, Marketing).
    - Calculated internship counts and average salaries by sector.
    - Visualized results using Bubble Charts.
+   -  ![Ekran Görüntüsü](screenshots/Screenshot_2.png)
 
 3. **Remote vs In-Person Internships**:
    - Classified internships into remote and in-person categories.
    - Analyzed distribution and salary trends using Sunburst Charts.
+   -  ![Ekran Görüntüsü](screenshots/Screenshot_3.png)
 
 4. **Top Companies**:
    - Identified companies with the highest internship counts.
    - Grouped internships by company and sector.
    - Presented findings using a Treemap.
+   -  ![Ekran Görüntüsü](screenshots/Screenshot_4.png)
+   -  ![Ekran Görüntüsü](screenshots/Screenshot_5.png)
 
 5. **Top Cities and Sector Distribution**:
    - Analyzed the top 10 cities with the highest internship opportunities.
    - Mapped sector-wise distribution using Stacked Bar Charts.
+   -  ![Ekran Görüntüsü](screenshots/Screenshot_6.png)
 
 ### Step 4: Visualization Tools
 - **Folium**: For interactive geographical maps.
