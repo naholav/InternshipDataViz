@@ -81,32 +81,3 @@ The Indian Cities Database was integrated to enhance geographical analysis. By c
 1. **Clone the Repository**:
    ```bash
    git clone <repository_url>
-Install Required Libraries: Ensure the following Python libraries are installed:
-
-bash
-Kodu kopyala
-pip install pandas numpy folium plotly matplotlib seaborn kagglehub
-Run the Notebook: Open DataVisualization_Proje.ipynb in Google Colab or Jupyter Notebook and follow the steps.
-
-Additional Step for Indian Cities Data:
-
-Run the Kaggle download code for the Indian Cities Database:
-python
-Kodu kopyala
-import kagglehub
-path = kagglehub.dataset_download("parulpandey/indian-cities-database")
-Load the data using:
-python
-Kodu kopyala
-import pandas as pd
-df = pd.read_csv(f"{path}/Indian Cities Database.csv")
-Execute Analysis: Follow the notebook instructions to generate visualizations and insights.
-
-Future Improvements
-Add more datasets for cross-country comparisons.
-Explore machine learning to predict internship trends.
-Expand geographical analysis to smaller towns and rural areas.
-Acknowledgments
-Internshala Dataset: Internship data source.
-Indian Cities Database: Supplementary geographical data.
-Tools Used: Python, Pandas, Folium, Plotly, Matplotlib.
